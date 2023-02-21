@@ -316,7 +316,6 @@ text-transform: uppercase;
     margin-right: 28px;
 }
 .destination-bitmap{
-    padding: 20px;
     animation: rotate 40s infinite linear;
 }
 @keyframes rotate {
